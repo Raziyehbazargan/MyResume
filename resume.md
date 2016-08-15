@@ -24,7 +24,7 @@ Experience
 ***Feb 2015 - Jun 2016***
 
  **Web Developer, [Pingle](http://pingle.co), Seattle, WA.**
-
+ 
   - Design responsive layouts for company website using: ***Javascript***, ***Bootstrap***, ***HTML***, ***CSS***.
   
   - Develop new user-facing features.
@@ -34,6 +34,7 @@ Experience
   - Fix bugs and implement new features from the database to the views using: ***C#***, ***Typescript***, ***AngularJS*** and  ***SQL server***. 
   
   - Working with Visual studio online and Team Foundation Version Control **(TFVC)**.  
+   
    
    
 ***Feb 2015 - Jun 2016***
@@ -46,9 +47,8 @@ Experience
 
 - Identified problems based on the users reports. 
 
-- Supporting Company Products.
+- Analyzed new software requests from users, test, installation, support and maintenance.
 
-- Analyzing new software requests from users, test, installation, support and maintenance.
 
 ---
 
