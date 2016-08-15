@@ -1,0 +1,202 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[raziyeh-bazargan]{Raziyeh Bazargan}
+
+\thinrule
+
+\subsubsubsubsection[bellevue-wa-425-598-5126-raziyeh.bazargangmail.com]{Bellevue,
+WA \letterbar{} (425) 598-5126 \letterbar{} Raziyeh.bazargan@gmail.com}
+
+\thinrule
+
+\subsection[summary]{Summary}
+
+Junior Web Developer specializing in front end development. Experienced
+with all stages of the development cycle for dynamic web projects.
+
+Highly self-motivated and results- driven, fast learner, strong team
+player, interacting and collaborating with coworkers at all levels and
+strong problem solving and analytical abilities with solid documentation
+tendencies.
+
+Understanding of relational databases with experience in SQL Server.
+Client-side web development skills on HTML, CSS, JavaScript, jQuery,
+Bootstrap and AngularJs.
+
+\thinrule
+
+\subsection[experience]{Experience}
+
+{\bf {\em Feb 2015 - Jun 2016}}
+
+{\bf Web Developer,
+\useURL[url1][http://pingle.co][][Pingle]\from[url1], Seattle, WA.}
+
+\startitemize
+\item
+  Design responsive layouts for new website clients using:
+  {\bf {\em Javascript}}, {\bf {\em Bootstrap}}, {\bf {\em HTML}},
+  {\bf {\em CSS}}.
+\item
+  Develop new user-facing features.
+\item
+  Assure that all user input is validated before submitting to back-end.
+\item
+  Fix bugs and implement new features from the database to the views
+  using: {\bf {\em C\#}}, {\bf {\em Typescript}}, {\bf {\em AngularJS}}
+  and {\bf {\em SQL server}}.
+\item
+  Working with Visual studio online and Team Foundation Version Control
+  {\bf (TFVC)}.
+\stopitemize
+
+{\bf {\em Feb 2015 - Jun 2016}}
+
+{\bf Software Specialist, \useURL[url2][http://rahyab.ir][][Rahyab
+Gayaneh Gostar]\from[url2], IRAN.}
+
+\startitemize
+\item
+  Gathered and analyzed customers change requests and created related
+  ticket for development team.
+\item
+  Found the root cause for every issue, assigning it to the appropriate
+  developer.
+\item
+  Identified problems based on the users reports.
+\item
+  Supporting Company Products.
+\item
+  Analyzing new software requests from users, test, installation,
+  support and maintenance.
+\stopitemize
+
+\thinrule
+
+\subsection[education]{Education}
+
+{\bf Front end web development}, CodeFellows, Seattle,WA
+
+Using: HTML , CSS , JavaScript , jQuery to create fully-functional web
+apps, asynchronous programming (AJAX) and database manipulation.
+
+\startitemize[packed]
+\item
+  {\em Related Projects:}
+  \useURL[url3][http://ractrac.herokuapp.com/][][Racktrack]\from[url3]
+  and \useURL[url4][http://baby-safe.herokuapp.com/][][Baby
+  Safe]\from[url4]
+\stopitemize
+
+{\bf Bachelor's degree}, Software Engineering, Islamic Azad University,
+Iran.
+
+{\bf Associate's degree}, Software Engineering, Fatemiyeh Junior
+College, Iran.
+
+\thinrule
+
+\subsection[skills-strengths]{Skills & Strengths}
+
+\startitemize
+\item
+  {\bf Web Development} : HTML, CSS, Bootstrap, JavaScript, jQuery,
+  AngularJS.
+\item
+  {\bf Web Tools} : Grunt, Bower.
+\item
+  {\bf Programming Languages} : C\# (beginner) , Typescript
+\item
+  {\bf DataBase} : SQL Server
+\item
+  {\bf Source Control} : GitHub, TFVC
+\stopitemize
+
+\thinrule
+
+\subsection[languages]{Languages}
+
+\startitemize[packed]
+\item
+  Persian (Native)
+\item
+  English
+\stopitemize
+
+\thinrule
+
+\startblockquote
+\useURL[url5][https://github.com/Raziyehbazargan][][GitHub]\from[url5]
+\letterbar{}
+\useURL[url6][https://www.linkedin.com/in/raziyehbazargan][][Linkedin]\from[url6]
+\letterbar{} \useURL[url7][http:raziyeh.info][][Portfolio]\from[url7]
+\stopblockquote
+
+\stoptext
