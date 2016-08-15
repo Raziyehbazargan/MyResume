@@ -1,2 +1,14 @@
-# MyResume
-Resume --> Summary, Skills, Education, Experience, etc.
+The Markdown Resume
+===================
+
+
+Requirements:
+
+ * ConTeXt
+ * pandoc
+ 
+ ---
+ 
+ Using:
+ 
+ * MultiMarkdown Composer
