@@ -21,7 +21,7 @@ Understanding of relational databases with experience in SQL Server. Client-side
 Experience
 ---------
 
-***Feb 2015 - Jun 2016***
+***Feb 2016 - Jun 2016***
 
  **Web Developer, [Pingle](http://pingle.co), Seattle, WA.**
  
