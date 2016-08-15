@@ -37,7 +37,7 @@ Experience
    
    
    
-***Feb 2015 - Jun 2016***
+***Sep 2008 - Sep 2015***
 
   **Software Specialist, [Rahyab Gayaneh Gostar](http://rahyab.ir), IRAN.**	  
 	  
@@ -49,22 +49,25 @@ Experience
 
 - Analyzed new software requests from users, test, installation, support and maintenance.
 
+- Supported and maintained company’s web and windows based application.
+
+- Supported users to work with company Products.
 
 ---
 
 Education
 ---------
 
-**Front end web development**, CodeFellows, Seattle,WA
+**Front end web development**, CodeFellows, Seattle,WA (Dec 2015)
 
   Using: HTML , CSS , JavaScript , jQuery to create fully-functional web apps, asynchronous programming (AJAX) and database manipulation.
 
    -  *Related Projects:* [Racktrack](http://ractrac.herokuapp.com/) and [Baby Safe](http://baby-safe.herokuapp.com/)
    
 
-**Bachelor’s degree**, Software Engineering, Islamic Azad University, Iran.
+**Bachelor’s degree**, Software Engineering, Islamic Azad University, Iran.(Sep 2008)
 
-**Associate's degree**, Software Engineering, Fatemiyeh Junior College, Iran.
+**Associate's degree**, Software Engineering, Fatemiyeh Junior College, Iran.(Sep 2006)
 
 
 ---
