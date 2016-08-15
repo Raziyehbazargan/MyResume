@@ -65,9 +65,9 @@ Education
    -  *Related Projects:* [Racktrack](http://ractrac.herokuapp.com/) and [Baby Safe](http://baby-safe.herokuapp.com/)
    
 
-**Bachelor’s degree**, Software Engineering, Islamic Azad University, Iran.(Sep 2008)
+**Bachelor’s degree**, Software Engineering, Islamic Azad University, Iran.(2006 - 2008)
 
-**Associate's degree**, Software Engineering, Fatemiyeh Junior College, Iran.(Sep 2006)
+**Associate's degree**, Software Engineering, Fatemiyeh Junior College, Iran.(2004 - 2006)
 
 
 ---
