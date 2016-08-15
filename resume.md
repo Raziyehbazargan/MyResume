@@ -10,7 +10,7 @@ Raziyeh Bazargan
 Summary
 --------
 
-Junior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects.
+Junior Web Developer specializing in front-end development. Experienced with all stages of the development cycle for dynamic web projects.
 
 Highly self-motivated and results- driven, fast learner, strong team player, interacting and collaborating with coworkers at all levels and strong problem solving and analytical abilities with solid documentation tendencies.
 
@@ -29,11 +29,11 @@ Experience
   
   - Develop new user-facing features.
   
-  - Assure that all user input is validated before submitting to back-end. 
+  - Assure that all user input is validated before submitting to the back-end.
   
   - Fix bugs and implement new features from the database to the views using: ***C#***, ***Typescript***, ***AngularJS*** and  ***SQL server***. 
   
-  - Working with Visual studio online and Team Foundation Version Control **(TFVC)**.  
+  - Working with Visual Studio online and Team Foundation Version Control (TFVC). 
    
    
    
@@ -41,13 +41,13 @@ Experience
 
   **Software Specialist, [Rahyab Gayaneh Gostar](http://rahyab.ir), IRAN.**	  
 	  
-- Gathered and analyzed customers change requests and created related ticket for development team. 
+- Gathered and analyzed customers changed requests and created the related ticket for the development team. 
 
-- Found the root cause for every issue, assigning it to the appropriate developer. 
+- Found the cause for every issue, assigning it to the appropriate developer.
 
-- Identified problems based on the users reports. 
+- Identified problems based on the users reports.
 
-- Analyzed new software requests from users, test, installation, support and maintenance.
+- Analyzed new software requests from users, test, installation, support, and maintenance.
 
 - Supported and maintained company’s web and windows based application.
 
@@ -58,9 +58,9 @@ Experience
 Education
 ---------
 
-**Front end web development**, CodeFellows, Seattle,WA (Dec 2015)
+**Front end web development**, CodeFellows, Seattle, WA (Dec 2015)
 
-  Using: HTML , CSS , JavaScript , jQuery to create fully-functional web apps, asynchronous programming (AJAX) and database manipulation.
+  Using: HTML, CSS, JavaScript, jQuery to create fully-functional web apps, asynchronous programming (AJAX) and database manipulation.
 
    -  *Related Projects:* [Racktrack](http://ractrac.herokuapp.com/) and [Baby Safe](http://baby-safe.herokuapp.com/)
    
