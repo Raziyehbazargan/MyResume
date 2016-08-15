@@ -1,17 +1,16 @@
 
----
----
-
 # Raziyeh Bazargan #
 
- ###### Bellevue, WA | (425) 598-5126 | [Raziyeh.bazargan@gmail.com](Raziyeh.bazargan@gmail.com)
+ Bellevue, WA | (425) 598-5126 | [Raziyeh.bazargan@gmail.com](Raziyeh.bazargan@gmail.com)
 
 ---
 
 ### **Summary**
 
 Junior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects.
-Highly self-motivated and results- driven, fast learner, strong team player, interacting and collaborating with coworkers at all levels and strong problem solving and analytical abilities with solid documentation tendencies.
+
+Highly self-motivated and results- driven, fast learner, strong team player, interacting and collaborating with coworkers at all levels and strong problem solving and analytical abilities with solid documentation tendencies.
+
 Understanding of relational databases with experience in SQL Server. Client-side web development skills on HTML, CSS, JavaScript, jQuery, Bootstrap and AngularJs.
 
 ---
@@ -27,14 +26,15 @@ Feb 2015 - Jun 2016
   + Fix bugs and implement new features from the database to the views using: ***C#***, ***Typescript***, ***AngularJS*** and  ***SQL server***. 
   + Working with Visual studio online and **Team Foundation Version Control (TFVC)**.  
    
+   
 Feb 2015 - Jun 2016
 : **Software Specialist, [Rahyab Gayaneh Gostar](http://rahyab.ir), IRAN.**	  
 	  
-    + Gathered and analyzed customers change requests and created related ticket for development team. 
-    + Found the root cause for every issue, assigning it to the appropriate developer. 
-    + Identified problems based on the users reports. 
-    + Supporting Company Products.
-    + Analyzing new software requests from users, test, installation, support and maintenance.
+  + Gathered and analyzed customers change requests and created related ticket for development team. 
+  + Found the root cause for every issue, assigning it to the appropriate developer. 
+  + Identified problems based on the users reports. 
+  + Supporting Company Products.
+  + Analyzing new software requests from users, test, installation, support and maintenance.
 
 ------
 ### **Education**
@@ -67,6 +67,6 @@ Feb 2015 - Jun 2016
 
 ---
 ### __Related Links__
-[GitHub](https://github.com/Raziyehbazargan) | [Linkedin](https://www.linkedin.com/in/raziyehbazargan)|[Portfolio](http:raziyeh.info)
+[GitHub](https://github.com/Raziyehbazargan) | [Linkedin](https://www.linkedin.com/in/raziyehbazargan)| [Portfolio](http:raziyeh.info)
 
 ---
