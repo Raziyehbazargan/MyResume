@@ -1,14 +1,4 @@
-/*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
- * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
- */
-
-/* Whole document */
-body {
+  body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 800px;
     margin: auto;
@@ -25,12 +15,11 @@ h1 {
 }
 /* Titles of categories */
 h2 {
-    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
 }
 
 h5{
-	text-align: center;
+  text-align: center;
 }
 /* Definitions */
 dt {
